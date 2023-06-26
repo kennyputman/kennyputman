@@ -8,4 +8,3 @@
 
 ### What I'm Working On
 - Full stack development with Java (Spring Boot) and React (TypeScript)
-- Learning C++ and systems programming while dabbling with some Rust
